@@ -1,10 +1,10 @@
 # raspberry-tips
 # Index
-1. [OS installation](#1.-os-installation)
-2. [SSH](#2.-ssh)
-3. [WLAN-Ethernet Bridge](#3.-wlan-ethernet-bridge)
-4. [Docker](#4.-docker)
-5. [Service](#5.-service)
+1. [OS installation](#1-os-installation)
+2. [SSH](#2-ssh)
+3. [WLAN-Ethernet Bridge](#3-wlan-ethernet-bridge)
+4. [Docker](#4-docker)
+5. [Service](#5-service)
 
 ## 1. OS installation
 ## 2. SSH
