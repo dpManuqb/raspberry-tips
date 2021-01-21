@@ -4,11 +4,11 @@
 2. [Management](#2-management)
 3. [Static IP](#3-static-ip)
 4. [Wifi](#4-wifi)
-5. [WLAN-Ethernet Bridge](5#-wlan-ethernet-bridge)
-6. [Home DNS](6#-home-dns)
-7. [Cron](7#-cron)
-8. [Docker](8#-docker)
-9. [Service](9#-service)
+5. [WLAN-Ethernet Bridge](#5-wlan-ethernet-bridge)
+6. [Home DNS](#6-home-dns)
+7. [Cron](#7-cron)
+8. [Docker](#8-docker)
+9. [Service](#9-service)
 
 ## 1. OS installation
 Requirements:
